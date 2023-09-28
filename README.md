@@ -57,7 +57,7 @@ Se podrá acceder a los datos con operaciones CRUD (Create, Read, Update, Elimin
 
 ### Diagrama
 
-![Uploading db_foro_api_1.png…]()
+![db_foro_api_1](https://github.com/dp1n0/foro-alura-api/assets/50959223/1f589549-8d7d-4764-9f77-ea5b090c2815)
 
 ## 🔋 Estado del proyecto
 <h4 align="center">
