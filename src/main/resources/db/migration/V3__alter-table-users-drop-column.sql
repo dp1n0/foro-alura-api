@@ -1,0 +1,1 @@
+ALTER TABLE usuarios DROP COLUMN contraseña;
