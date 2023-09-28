@@ -57,7 +57,7 @@ Se podrá acceder a los datos con operaciones CRUD (Create, Read, Update, Elimin
 
 ### Diagrama
 
-![](C:/Users/David/Documents/db_foro_api_1.png)
+![Uploading db_foro_api_1.png…]()
 
 ## 🔋 Estado del proyecto
 <h4 align="center">
