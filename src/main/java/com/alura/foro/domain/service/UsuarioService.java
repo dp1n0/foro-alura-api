@@ -1,5 +1,6 @@
-package com.alura.foro.service;
+package com.alura.foro.domain.service;
 
+import com.alura.foro.domain.repository.UsuarioRepository;
 import com.alura.foro.domain.usuario.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

@@ -4,7 +4,8 @@ import com.alura.foro.domain.usuario.DatosActualizarUsuario;
 import com.alura.foro.domain.usuario.DatosRegistrarUsuario;
 import com.alura.foro.domain.usuario.DatosUsuario;
 import com.alura.foro.domain.usuario.Usuario;
-import com.alura.foro.service.UsuarioService;
+import com.alura.foro.domain.service.UsuarioService;
+import io.swagger.v3.oas.annotations.security.SecurityRequirement;
 import jakarta.transaction.Transactional;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -15,6 +16,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/usuarios")
+@SecurityRequirement(name = "bearer-key")
 public class UsuariosController {
 
     @Autowired

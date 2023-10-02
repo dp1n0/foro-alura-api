@@ -2,7 +2,7 @@ package com.alura.foro.domain.topico;
 
 import java.time.LocalDateTime;
 
-import com.alura.foro.domain.modelo.Curso;
+import com.alura.foro.domain.curso.Curso;
 import com.alura.foro.domain.usuario.Usuario;
 
 import jakarta.persistence.Entity;

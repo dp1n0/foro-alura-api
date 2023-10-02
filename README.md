@@ -1,7 +1,7 @@
 <h1 align="center">Foro Alura - Spring Boot REST API</h1>
 
 ![Static Badge](https://img.shields.io/badge/STATUS-FINISH-green)
-![Static Badge](https://img.shields.io/badge/RELEASE%20DATE-SEPTEMBER-lighgreen)
+![Static Badge](https://img.shields.io/badge/RELEASE%20DATE-OCTOBER-lighgreen)
 ![Static Badge](https://img.shields.io/badge/MAVEN%20CENTRAL-v3.8.0-blue)
 ![Static Badge](https://img.shields.io/badge/JAVA-17-blue)
 
@@ -81,3 +81,6 @@ Se podrá acceder a los datos con operaciones CRUD (Create, Read, Update, Elimin
 - Spring data JPA.
 - MySQL driver.
 - Flyway Migration.
+- Spring Security
+- Java JWT
+- Springdoc OpenApi.

@@ -1,10 +1,10 @@
-package com.alura.foro.service;
+package com.alura.foro.domain.service;
 
-import com.alura.foro.domain.curso.CursoRepository;
+import com.alura.foro.domain.repository.CursoRepository;
 import com.alura.foro.domain.curso.Curso;
 import com.alura.foro.domain.topico.*;
 import com.alura.foro.domain.usuario.Usuario;
-import com.alura.foro.domain.usuario.UsuarioRepository;
+import com.alura.foro.domain.repository.UsuarioRepository;
 import com.alura.foro.infra.errores.ValidacionDeIntegridad;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

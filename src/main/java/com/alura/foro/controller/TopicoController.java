@@ -1,11 +1,12 @@
 package com.alura.foro.controller;
 
 import com.alura.foro.domain.topico.*;
+import io.swagger.v3.oas.annotations.security.SecurityRequirement;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import com.alura.foro.service.TopicoService;
+import com.alura.foro.domain.service.TopicoService;
 
 import jakarta.transaction.Transactional;
 import jakarta.validation.Valid;
@@ -16,6 +17,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/topicos")
+@SecurityRequirement(name = "bearer-key")
 public class TopicoController {
 	
 	@Autowired
