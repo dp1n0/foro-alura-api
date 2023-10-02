@@ -1,7 +1,7 @@
 package com.alura.foro.service;
 
 import com.alura.foro.domain.curso.CursoRepository;
-import com.alura.foro.domain.modelo.Curso;
+import com.alura.foro.domain.curso.Curso;
 import com.alura.foro.domain.topico.*;
 import com.alura.foro.domain.usuario.Usuario;
 import com.alura.foro.domain.usuario.UsuarioRepository;
