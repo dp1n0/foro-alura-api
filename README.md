@@ -65,9 +65,15 @@ Se podrá acceder a los datos con operaciones CRUD (Create, Read, Update, Elimin
 </h4>
 
 ## 🔨 Funcionalidades del proyecto
-<p align="center">
-  <img src="https://usagif.com/wp-content/uploads/loading-12.gif" alt="Upload" width="10%" height="10%"/>
-</p>
+
+![image](https://github.com/dp1n0/foro-alura-api/assets/50959223/10045097-77c1-4454-a609-197c574ff65c)
+
+![image](https://github.com/dp1n0/foro-alura-api/assets/50959223/6b7c89c0-3db5-457b-ab38-7c04fe213f95)
+
+![image](https://github.com/dp1n0/foro-alura-api/assets/50959223/a2283b1e-0fa0-4806-9770-a626ed1bbe14)
+
+![image](https://github.com/dp1n0/foro-alura-api/assets/50959223/de47d6f6-a04d-4b8b-aa58-080d59fdb1db)
+
 
 ## ✔️ Tecnologías utilizadas
 - Java 17
